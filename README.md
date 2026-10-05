@@ -24,6 +24,8 @@ pip install -r requirements.txt
 
 Структура проекта
 
+project/
+│
 │── Data.json             # сам json файл
 ├── FromParquetToJson.py  # файл для создания json файла
 ├── requirements.txt      # зависимости
