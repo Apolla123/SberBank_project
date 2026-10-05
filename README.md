@@ -15,7 +15,6 @@
 - Экономическая интерпретация выделенных групп.
 - Визуализация результатов.
 
-
 Для работы проекта требуется Python версии 3.10 или выше.
 
 Установить зависимости:
@@ -23,13 +22,10 @@ pip install -r requirements.txt
 
 
 Структура проекта
-
-project/
-│
-│── Data.json             # сам json файл
-├── FromParquetToJson.py  # файл для создания json файла
-├── requirements.txt      # зависимости
-└── README.md             # описание проекта
+Data.json             # сам json файл
+FromParquetToJson.py  # файл для создания json файла
+requirements.txt      # зависимости
+README.md             # описание проекта
 
 Результаты
 
